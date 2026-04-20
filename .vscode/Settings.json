@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\path\\to\\PortableGit\\cmd;${env:PATH}"
+  }
+}
